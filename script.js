@@ -567,7 +567,6 @@ const mainContent = (
 
 ReactDOM.render(mainContent, document.getElementById("main-content"))
 
-
 // Footer
 
 const footer = (
